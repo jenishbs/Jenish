@@ -1,4 +1,3 @@
-# newone<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -44,8 +43,6 @@
         color: #ffc107;
     }
 </style>
-</head>
-
 <body>
 <!-- Hero Section -->
 <div class="hero">
@@ -148,7 +145,7 @@
 
 <!-- Footer -->
 <footer>
-    <p>&copy; 2025 Jenish. All rights reserved. | <a href="#">Privacy Policy<g/a></p>
+    <p>&copy; 2025 Jenish</p>
 </footer>
 </body>
 </html>
