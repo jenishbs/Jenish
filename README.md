@@ -73,8 +73,7 @@
       align-items: center;
       justify-content: center;
       display: flex;
-      margin-left: 420px;
-      margin-top: 5px;
+      text-align: center;
     }
     .p2 img{
         .inner-photo img {
@@ -266,7 +265,7 @@
 
 <!-- Footer -->
 <footer>
-    <p>&copy; 2025 Jenish. All rights reserved. | <a href="#">Privacy Policy<g/a></p>
+    <p>&copy; 2025 Jenish. All rights reserved.
 </footer>
 </body>
 </html>
