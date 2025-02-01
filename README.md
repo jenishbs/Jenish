@@ -74,6 +74,8 @@
       justify-content: center;
       display: flex;
       text-align: center;
+      margin-left: 550px;
+      margin-top: 5px;
     }
     .p2 img{
         .inner-photo img {
