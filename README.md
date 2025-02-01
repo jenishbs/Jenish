@@ -74,8 +74,6 @@
       justify-content: center;
       display: flex;
       text-align: center;
-      margin-left: 550px;
-      margin-top: 5px;
     }
     .p2 img{
         .inner-photo img {
@@ -85,6 +83,10 @@
       display: flex;
       align-items: center;
       font-size: 5px;
+      position: relative;
+      display: flex; 
+      justify-content: center; 
+      
     }
     }
     .skills{
