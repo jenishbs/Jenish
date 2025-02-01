@@ -73,7 +73,7 @@
       align-items: center;
       justify-content: center;
       display: flex;
-      margin-left: 500px;
+      margin-left: 470px;
       margin-top: 5px;
     }
     .p2 img{
